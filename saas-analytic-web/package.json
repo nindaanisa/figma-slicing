@@ -1,0 +1,18 @@
+{
+  "name": "figma-slicing",
+  "version": "1.0.0",
+  "description": "Slicing design to code",
+  "author": "Putu Rades Pratama",
+  "scripts": {
+    "dev": "parcel src/index.html -p 4000",
+    "clean": "rm -r ./dist",
+    "build": "parcel build src/index.html --dist-dir build --no-source-maps"
+  },
+  "keywords": [],
+  "browserslist": "> 0.5%, last 2 versions, not dead",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.4.1"
+  },
+  "dependencies": {}
+}

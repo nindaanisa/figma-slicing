@@ -39,7 +39,13 @@ Server should now be running on [localhost:4000](https://localhost:4000)
 
 [1] [Saas Desktop App Landing Page](https://www.figma.com/file/XgOTskdrIsxednomYL55sC/SaaS-Desktop-App-Landing-Page-Template?node-id=0%3A2)
 
+[2] [Saas Analytic Web Landing Page](https://www.figma.com/file/zfTYDc9BRwhKTwawAASiQO/Saas-Analytic-Web-UI-Kit?node-id=2%3A188)
+
 </details>
+
+```
+Note: If link figma not working, please create an issue or email me. Thanks :)
+```
 
 <br/>
 
